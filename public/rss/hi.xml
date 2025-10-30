@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+                xmlns:dc="http://purl.org/dc/elements/1.1/"
+                xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+                xmlns:admin="http://webns.net/mvcb/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:content="http://purl.org/rss/1.0/modules/content/"
+                xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Best PHP Newspaper Script - News365 RSS Feed (hi)</title>
+<link>https://latestnews365.bdtask-demo.com</link>
+<atom:link href="https://latestnews365.bdtask-demo.com/rss/hi.xml" rel="self" type="application/rss+xml" />
+<description>Latest news from Best PHP Newspaper Script - News365 (hi)</description>
+<language>hi</language>
+<copyright>Copyright 2025 Best PHP Newspaper Script - News365</copyright>
+<lastBuildDate>Thu, 09 Oct 2025 15:50:51 +0600</lastBuildDate>
+<pubDate>Thu, 09 Oct 2025 15:50:51 +0600</pubDate>
+<image>
+<title>Best PHP Newspaper Script - News365 RSS Feed</title>
+<url>https://latestnews365.bdtask-demo.com/storage/application/1752651835logo.png</url>
+<link>https://latestnews365.bdtask-demo.com</link>
+</image>
+</channel>
+</rss>
